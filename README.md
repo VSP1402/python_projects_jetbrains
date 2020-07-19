@@ -1,0 +1,2 @@
+# python_projects_jetbrains
+This space contains all projects solved as part of the Python Developer track in the JetBrains Academy learning.
