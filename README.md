@@ -3,3 +3,5 @@ This space contains all projects solved as part of the Python Developer track in
 
 Projects:
 1) Coffee Machine
+2) Simple Chatty Bot
+3) Zookeeper
